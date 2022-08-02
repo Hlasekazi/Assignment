@@ -1,0 +1,8 @@
+On my Jenkins server I install docker using yum install docker coomand
+On my AWS Console I created IAMs along with ECR
+In the Jenkins web interface I installed the cloudbees AWS plugins,Amazon ECR plugin and docker plugin
+Confighured the creditals all the plugins I added
+I connected to the JEnkins web interface, selected the project Assignment and clicked on build now
+It all went well and the project in the 4 stges
+On my AWS account under my ECR repository I saw each build 
+  
